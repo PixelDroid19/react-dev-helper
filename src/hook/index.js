@@ -1,1 +1,1 @@
-export { default } './useCount'
+export { default } from './useCount'
