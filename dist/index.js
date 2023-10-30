@@ -1,1 +1,0 @@
-"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");var _useCount=_interopRequireDefault(require("./hook/useCount"));Object.defineProperty(exports,"__esModule",{value:!0}),Object.defineProperty(exports,"useCount",{enumerable:!0,get:function get(){return _useCount["default"]}});
